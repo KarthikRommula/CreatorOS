@@ -1,4 +1,4 @@
-# Daily Brief - Creator Dashboard
+# CreatorOS - Creator Dashboard
 
 A comprehensive dashboard for content creators to manage analytics, optimize videos, track trends, and monitor competitors.
 
